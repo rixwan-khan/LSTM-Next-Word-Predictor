@@ -1,1 +1,1 @@
-# LSTM-Next-Word-Predictor
+# Next Word Prediction using LSTM
